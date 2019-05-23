@@ -1,6 +1,6 @@
 # Industrial Core
-[![Build Status](http://jenkins.ros.org/job/devel-indigo-industrial_core/badge/icon)](http://jenkins.ros.org/job/devel-indigo-industrial_core/)<BR>
-[ROS-Industrial][] core meta-package.  See the [ROS wiki][] page for more information.
+
+A detached fork of [Industrial Core](https://github.com/OrebroUniversity/industrial_core) for the YuMi robot in the Personal Robotics Lab.
 
 ## Contents
 
